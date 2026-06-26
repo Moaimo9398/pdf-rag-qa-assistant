@@ -2,10 +2,6 @@
 course: 智能设计基础
 assignment: 期末大作业
 project_name: DeepLearnQA - 深度学习知识库智能问答系统
-student_id: 2320508150
-student_name: 谢国栋
-major: 智能医学工程
-class: 23级1班
 agent_tools: OpenCode
 repository_url: 
 demo_url: 
