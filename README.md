@@ -1,2 +1,2 @@
 # pdf-rag-qa-assistant
-langchain-pdf-chatbot
+langchain-pdf-chatbot in final-project
